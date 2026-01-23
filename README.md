@@ -1,3 +1,3 @@
-# SQL introduction
+# SQL Introduction
 
-Holberton SQL scripts.
+Holberton School SQL introduction project.
